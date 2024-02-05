@@ -1,5 +1,5 @@
 Rabbit MQ with priority Client
 
-sender client 
+sender client |
 consumer client 
 
